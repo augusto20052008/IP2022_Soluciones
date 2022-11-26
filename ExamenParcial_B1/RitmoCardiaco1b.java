@@ -5,7 +5,7 @@ public class RitmoCardiaco1b {
 	public static void main(String[] args) {
 		//Declaración
 		Scanner sc = new Scanner(System.in);
-		Short ritmoC;
+		short ritmoC;
 		String tipo;
 
 		// Datos de entrada
