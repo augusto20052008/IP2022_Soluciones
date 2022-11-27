@@ -17,7 +17,7 @@ public class TiempoViaje1 {
 		System.out.print("Ingrese la veocidad del viaje en Km/h: ");
 		velocidad_Km_h = sc.nextShort();
 
-		// Cálculo duración de la duración del viaje en minutos
+		// Cálculo duración del viaje en minutos
 		tiempo_min = (float) distancia_Km / velocidad_Km_h * 60;
 
 		// Muestra de resultados
